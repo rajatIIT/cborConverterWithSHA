@@ -13,7 +13,7 @@
  *
  * 1) Path to CBOR File
  * 2) input Directory of HTML Pages
- * 3) output Directory of HTML Pages
+ * 3) output Directory of JSON Pages
  * 4) mode :
  * t when writing a large cbor file
  * f when reading from a large cbor File
