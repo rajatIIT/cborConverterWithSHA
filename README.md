@@ -1,6 +1,5 @@
 # cborConverterWithSHA
 
-# cborConverter
 
  Convert HTML to CBOR Files and CBOR to JSON (as per IST Schema in TargetModel.java). For memex project.
  * 
