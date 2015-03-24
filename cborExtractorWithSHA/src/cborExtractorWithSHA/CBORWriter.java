@@ -99,7 +99,7 @@ public class CBORWriter {
 		h.put("address","128.238.182.77");
 		h.put("robots", "classic");
 		
-		HashMap<String, Object> myHeader = (HashMap)myModel.request.get("client");
+		HashMap<String, Object> myHeader = (HashMap)myModel.request.get("headers");
 		String shaKey = "ebola-" + computeSHA1(myModel.url);
 		myHeader.put("key", shaKey);
 		
